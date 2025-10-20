@@ -4,6 +4,8 @@ import AlbumItem from './AlbumItem'
 import SongItem from './SongItem'
 import { useContext } from 'react'
 import { PlayerContext } from '../context/PlayerContext'
+import { albumsData } from '../assets/assets'
+import { songsData } from '../assets/assets'
 
 const DisplayHome = () => {
 

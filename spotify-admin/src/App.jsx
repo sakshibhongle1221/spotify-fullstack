@@ -10,7 +10,7 @@ import Sidebar from './components/Sidebar';
 import Navbar from './components/Navbar';
 import { Navigate } from 'react-router-dom';
 
-export const url = 'https://spotify-backend-vvsp.onrender.com'
+export const url = 'https://music-backend-g6am.onrender.com'
 
 const App = () => {
   return (
