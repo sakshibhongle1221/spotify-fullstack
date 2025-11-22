@@ -1,9 +1,9 @@
 
-# Spotify Fullstack
+# Spotify-clone
 
 ## 🎵 Project Description
 
-Spotify Fullstack is a fully functional music streaming web application inspired by Spotify,
+Spotify clone is a fully functional music streaming web application inspired by Spotify,
 built using the MERN (MongoDB, Express.js, React, Node.js) stack. 
 It includes features like 
 album and song management,
