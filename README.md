@@ -3,7 +3,7 @@
 
 ## 🎵 Project Description
 
-Spotify clone is a fully functional music streaming web application inspired by Spotify,
+It's a Spotify clone which is fully functional music streaming web application,
 built using the MERN (MongoDB, Express.js, React, Node.js) stack. 
 It includes features like 
 album and song management,
