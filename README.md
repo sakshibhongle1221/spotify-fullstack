@@ -10,6 +10,7 @@ album and song management,
 real-time audio playback, 
 responsive UI,
 and admin panel capabilities to upload, list, and manage media content.
+* Admin Panel link: https://musicapp-adminpanel.onrender.com
 
 ## 📑 Table of Contents
 
